@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("6666")
 
 	fmt.Println("7777")
+	fmt.Println("8888")
 }
